@@ -12,4 +12,4 @@ based on entered points data. It generates "raw data" and "result" plots.
 * input to Google Colab the file with your points 
 * change variable "path" to the name of your points file if the name is different than "Model.txt"
 * change tested model on your new one (change variable "model_shape2")
-* run all script
+* run script
