@@ -4,7 +4,7 @@
 Google Colab project which allows users to enter a specified data model and make surface approximation
 based on entered points data. It generates "raw data" and "result" plots.
 
-SurfApp.zip contains a project of website created for Surface Approximation management.
+SurfApp.zip contains a project of the website created for Surface Approximation management.
 
 ## MAIN REQUIREMENTS
 * points file format (*.txt; [point number, x, y, dz] -> 1	0.5	0.5	-119.3) -> Model.txt
